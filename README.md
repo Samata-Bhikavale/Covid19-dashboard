@@ -1,4 +1,4 @@
-# 🌍 Global COVID-19 Impact Dashboard 
+#  COVID-19 Impact Dashboard 
 
 This dashboard was built as part of a Tableau learning project. It visually explores the global impact of the COVID-19 pandemic, focusing on confirmed cases, death rates, recovery trends, and country-wise comparisons.
 
